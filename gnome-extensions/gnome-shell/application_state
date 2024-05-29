@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="kitty.desktop" score="2132.375" last-seen="1716998752"/>
+    <application id="org.gnome.TextEditor.desktop" score="1.177734375" last-seen="1716730436"/>
+    <application id="mongodb-compass.desktop" score="5.5" last-seen="1716800880"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="1.875" last-seen="1716997861"/>
+    <application id="com.mattjakeman.ExtensionManager.desktop" score="11.5" last-seen="1716993312"/>
+    <application id="org.gnome.tweaks.desktop" score="2" last-seen="1716993468"/>
+    <application id="vesktop.desktop" score="2237.5224609375" last-seen="1716995933"/>
+    <application id="brave-browser.desktop" score="13003" last-seen="1716998734"/>
+    <application id="org.gnome.Pomodoro.desktop" score="354" last-seen="1716997568"/>
+    <application id="code.desktop" score="5228.0087890625" last-seen="1716998744"/>
+    <application id="org.gnome.Rhythmbox3.desktop" score="14.5" last-seen="1716825452"/>
+    <application id="org.gnome.Software.desktop" score="0.5" last-seen="1716817338"/>
+    <application id="virtualbox.desktop" score="0" last-seen="1716708549"/>
+    <application id="filezilla-server-gui.desktop" score="0" last-seen="1716796135"/>
+    <application id="org.gnome.Settings.desktop" score="1.5" last-seen="1716993035"/>
+    <application id="termius-app_termius-app.desktop" score="56.5" last-seen="1716800453"/>
+    <application id="org.gnome.Terminal.desktop" score="1503.4150390625" last-seen="1716996374"/>
+    <application id="org.gnome.Loupe.desktop" score="2.625" last-seen="1716728134"/>
+    <application id="org.videolan.VLC.desktop" score="654.40625" last-seen="1716997867"/>
+    <application id="org.qbittorrent.qBittorrent.desktop" score="13.5" last-seen="1716997844"/>
+    <application id="org.gnome.Boxes.desktop" score="46.5" last-seen="1716967503"/>
+    <application id="filezilla.desktop" score="14.5" last-seen="1716802004"/>
+    <application id="org.gnome.Nautilus.desktop" score="91.583984375" last-seen="1716997700"/>
+    <application id="vivaldi-stable.desktop" score="0.5" last-seen="1716728832"/>
+    <application id="io.otsaloma.gaupol.desktop" score="17.5" last-seen="1716825519"/>
+    <application id="org.gnome.DiskUtility.desktop" score="5.5" last-seen="1716729893"/>
+    <application id="xyz.ketok.Speedtest.desktop" score="0" last-seen="1716715946"/>
+    <application id="google-chrome.desktop" score="16" last-seen="1716736680"/>
+    <application id="youtube-music_youtube-music.desktop" score="18.5" last-seen="1716996006"/>
+    <application id="org.gnome.baobab.desktop" score="0.5" last-seen="1716715464"/>
+  </context>
+</application-state>

@@ -1,0 +1,39 @@
+.extension-list-view {
+  max-height: 40em;
+}
+
+.extension-list-label {
+  max-width: 14em;
+}
+
+.extension-list-label:focus {
+  border-radius: 0.15em;
+  background-color: #353535;
+  box-shadow: inset 0 0 0 0.15em rgba(53, 132, 228, 0.7);
+}
+
+.extension-list-label:state-error {
+  color: #c01c28;
+}
+
+.extension-list-label:state-outdate {
+  color: #cd9309;
+}
+
+.extension-list-label:state-immutable {
+  color: #9a9a9a;
+}
+
+.extension-list-icon {
+  padding: 0 0.15em;
+}
+
+.extension-list-icon:focus {
+  border-radius: 0.5em;
+  background-color: #353535;
+  box-shadow: inset 0 0 0 0.15em rgba(53, 132, 228, 0.7);
+}
+
+.extension-list-icon:hover {
+  color: #4b92e7;
+}

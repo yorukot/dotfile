@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extension-extension-list">
+    <schema path="/org/gnome/shell/extensions/extension-list/" id="org.gnome.shell.extensions.extension-list">
+        <key type="u" name="button-icon">
+            <range min="0" max="2"/>
+            <default>0</default>
+            <summary>button icon: 0 - prefs, 1 - delete, 2 - url</summary>
+        </key>
+        <key type="s" name="ext-app">
+            <default>"org.gnome.Extensions.desktop"</default>
+            <summary>open ext app (default - e.g.o)</summary>
+        </key>
+        <key type="b" name="enable-tooltip">
+            <default>true</default>
+            <summary>enable toolbar tooltip</summary>
+        </key>
+        <key type="b" name="ext-button">
+            <default>true</default>
+            <summary>show ext button</summary>
+        </key>
+        <key type="b" name="url-button">
+            <default>true</default>
+            <summary>show url button</summary>
+        </key>
+        <key type="b" name="del-button">
+            <default>true</default>
+            <summary>show delete button</summary>
+        </key>
+        <key type="b" name="dis-button">
+            <default>true</default>
+            <summary>show inactive button</summary>
+        </key>
+        <key type="b" name="pin-button">
+            <default>true</default>
+            <summary>show pin button</summary>
+        </key>
+        <key type="b" name="hide-inactive">
+            <default>false</default>
+            <summary>hide inactive extensions from menu</summary>
+        </key>
+        <key type="b" name="toggle-unpin">
+            <default>false</default>
+            <summary>unpin or not</summary>
+        </key>
+        <key type="as" name="unpin-list">
+            <default>[]</default>
+            <summary>list of unpinned extensions</summary>
+        </key>
+    </schema>
+</schemalist>
